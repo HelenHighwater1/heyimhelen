@@ -3151,3 +3151,17 @@ input, select, textarea {
 	/* transform: scale(0.01) */
 
 }
+
+.resume {
+	padding: 10px;
+	background-color: #61686b72;
+	font-size: larger;
+	border-radius: 5px;
+	text-shadow: 4px 3px 0 #403b16;
+}
+
+.resume:hover {
+
+	background-color: #61686bc4;
+
+}
